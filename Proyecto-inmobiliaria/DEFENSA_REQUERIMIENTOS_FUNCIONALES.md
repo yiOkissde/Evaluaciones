@@ -41,7 +41,7 @@ La entrega actual funciona como un **prototipo frontend en HTML, CSS y JavaScrip
 
 ### RF1 - Registro, autenticacion y administracion de usuarios segun perfiles
 
-**Prioridad:** Alta  
+**Prioridad:** Alta<br>
 **Estado en el prototipo:** Implementado parcialmente en frontend.
 
 **En que parte de la pagina se ve**
@@ -88,7 +88,7 @@ La autenticacion todavia es simulada en el navegador. El modelo `backend/models/
 
 ### RF2 - Registrar y administrar propietarios asociados a propiedades
 
-**Prioridad:** Alta  
+**Prioridad:** Alta<br>
 **Estado en el prototipo:** Parcial.
 
 **En que parte de la pagina se ve**
@@ -124,7 +124,7 @@ No existe aun una pantalla CRUD completa para crear, editar, activar/inactivar p
 
 ### RF3 - Registrar y administrar propiedades con datos completos
 
-**Prioridad:** Alta  
+**Prioridad:** Alta<br>
 **Estado en el prototipo:** Parcial.
 
 **En que parte de la pagina se ve**
@@ -164,7 +164,7 @@ La administracion de propiedades no permite crear/editar/eliminar desde la inter
 
 ### RF4 - Controlar estados de una propiedad y transiciones
 
-**Prioridad:** Alta  
+**Prioridad:** Alta<br>
 **Estado en el prototipo:** Parcial.
 
 **En que parte de la pagina se ve**
@@ -204,7 +204,7 @@ No existen todavia reglas de transicion completas entre todos los estados ni val
 
 ### RF5 - Publicar propiedades disponibles y consultar catalogo con filtros
 
-**Prioridad:** Alta  
+**Prioridad:** Alta<br>
 **Estado en el prototipo:** Implementado en frontend.
 
 **En que parte de la pagina se ve**
@@ -247,7 +247,7 @@ Este RF esta bien evidenciado en interfaz y JavaScript: se puede demostrar en vi
 
 ### RF6 - Registrar clientes interesados evitando duplicidad
 
-**Prioridad:** Alta  
+**Prioridad:** Alta<br>
 **Estado en el prototipo:** Parcial.
 
 **En que parte de la pagina se ve**
@@ -283,7 +283,7 @@ La duplicidad se controla para cuentas registradas, pero no existe aun un modulo
 
 ### RF7 - Solicitar visitas y permitir al ejecutivo confirmar/modificar/rechazar/cancelar
 
-**Prioridad:** Alta  
+**Prioridad:** Alta<br>
 **Estado en el prototipo:** Parcial.
 
 **En que parte de la pagina se ve**
@@ -324,7 +324,7 @@ La parte de confirmar, modificar, rechazar o cancelar visitas no esta implementa
 
 ### RF8 - Gestionar visitas evitando superposiciones y registrando resultado
 
-**Prioridad:** Alta  
+**Prioridad:** Alta<br>
 **Estado en el prototipo:** Pendiente / muy parcial.
 
 **En que parte de la pagina se ve**
@@ -363,7 +363,7 @@ Este RF no esta resuelto como regla de negocio. Solo existe la base visual y de 
 
 ### RF9 - Generar solicitud formal de arriendo para una propiedad
 
-**Prioridad:** Alta  
+**Prioridad:** Alta<br>
 **Estado en el prototipo:** Pendiente.
 
 **En que parte de la pagina se ve**
@@ -391,7 +391,7 @@ El flujo implementado llega hasta la solicitud de visita. La solicitud formal de
 
 ### RF10 - Evaluar solicitudes de arriendo y mantener trazabilidad
 
-**Prioridad:** Alta  
+**Prioridad:** Alta<br>
 **Estado en el prototipo:** Pendiente.
 
 **En que parte de la pagina se ve**
@@ -419,7 +419,7 @@ No existe aun modulo de solicitudes de arriendo. El panel ejecutivo actualmente 
 
 ### RF11 - Reservar propiedad con solicitud aprobada y evitar multiples aprobaciones incompatibles
 
-**Prioridad:** Alta  
+**Prioridad:** Alta<br>
 **Estado en el prototipo:** Parcial / pendiente como flujo completo.
 
 **En que parte de la pagina se ve**
@@ -455,7 +455,7 @@ El estado `Reservada` esta representado y afecta la interfaz, pero no existe el 
 
 ### RF12 - Consultas de gestion sobre propiedades, visitas, solicitudes, pagos y requerimientos
 
-**Prioridad:** Media  
+**Prioridad:** Media<br>
 **Estado en el prototipo:** Parcial.
 
 **En que parte de la pagina se ve**
